@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yamkela</h1>
 <h3 align="center">Aspiring data scientist in Cape Town, South Africa.</h3>
 
-<img align="right" alt="Coding" width="400" src="./programming.gif" />  <!-- Local coding image -->
+<img align="right" alt="Coding" width="400" src=".img/programming.gif" />  <!-- Local coding image -->
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=yamkelakwakwi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
